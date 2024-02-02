@@ -16,4 +16,4 @@
     <string name="settings_theme_value_default" translatable="false">DEFAULT</string>
     <string name="settings_theme_value_light" translatable="false">LIGHT</string>
     <string name="settings_theme_value_dark" translatable="false">DARK</string>
-    </resources>
+</resources>
